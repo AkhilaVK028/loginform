@@ -1,0 +1,63 @@
+ /* body{
+  border: 5px solid black;
+ } */
+ 
+ [nz-form] {
+    max-width: 1000px; }
+
+  
+
+  .phone-select {
+    width: 80px;
+  }
+
+  .register-are {
+    margin-bottom: 20px;
+  }
+ /* CSS code for centering the form on the page */
+
+
+  .container {
+
+    margin-left:350px ;
+   position: fixed; 
+    top: 60%;
+    left: 56%;
+    transform: translate(-50%, -50%);
+    padding: 20px 70px; 
+     margin-top: -75px; 
+    background-color: rgb(188, 219, 233);
+    
+  }
+    
+    
+
+  
+  .radio{
+    padding-bottom: 15px;
+  }
+
+
+
+   
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* min-height: 90vh; */
+
+    
+  
+  
+ /* form {
+    max-width: 400px; 
+    width: 200%; 
+     }  */
+  
+   
+    
+     
+    
+    
+
+  
+  
